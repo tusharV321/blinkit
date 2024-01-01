@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+}
+#eg2{
+    background-color: pink;
+    width: 300px;
+    height: 200px;
+    margin-inline: auto;
+}
+#eg1{
+    background-color:aqua;
+    width: 50%;
+    height: 50%px;
+    margin-inline: auto;
+    padding:10px 20px ;
+}
+#box1{
+    width: 300px;
+    height: 300px;
+    background-color: aqua;
+    margin-inline: auto;
+    
+}
